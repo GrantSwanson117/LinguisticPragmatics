@@ -1,0 +1,4 @@
+repository "SpanishResearchProj@Grant_Swanson@cloud"
+  path "/"
+    br "/main"
+    co "/main"
